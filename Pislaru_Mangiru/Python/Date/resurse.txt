@@ -1,0 +1,9 @@
+life_expectancy_at_birth -  https://data.worldbank.org/indicator/SP.DYN.LE00.IN
+mortality_rate_infant-https://data.worldbank.org/indicator/SP.DYN.IMRT.IN
+current_health_expenditure -https://databank.worldbank.org/source/health-nutrition-and-population-statistics/Series/SH.XPD.CHEX.GD.ZS#
+self_perceived_health - https://ec.europa.eu/eurostat/databrowser/view/hlth_silc_10$dv_1147/default/table
+total_air_emissions - https://ec.europa.eu/eurostat/databrowser/view/env_ac_aibrid_r2__custom_15069971/default/table
+self_reported_unmet_needs_for_medical_examination - https://ec.europa.eu/eurostat/databrowser/view/hlth_silc_14$dv_385/default/table
+total_unemployment_rate - https://ec.europa.eu/eurostat/databrowser/view/tps00203/default/table?lang=en
+hipc - https://ec.europa.eu/eurostat/databrowser/view/tec00118/default/table
+at_risk_of_poverty_rate - https://ec.europa.eu/eurostat/databrowser/view/ilc_li02$dv_1163/default/table
